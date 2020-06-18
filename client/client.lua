@@ -17,4 +17,4 @@ Citizen.CreateThread(function()
         SetWeaponDrops()
         Citizen.Wait(0)
     end
-end)
+end) 
